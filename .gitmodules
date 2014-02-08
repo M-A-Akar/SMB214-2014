@@ -22,3 +22,6 @@
 [submodule "Primeface"]
 	path = Primeface
 	url = git@github.com:zeinazgheib/Primeface.git
+[submodule "adelyounes"]
+	path = adelyounes
+	url = git@github.com:adelyounes/adelyounes.git
