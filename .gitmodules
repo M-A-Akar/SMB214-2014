@@ -28,4 +28,6 @@
 [submodule "angularjs"]
 	path = angularjs
 	url = git@github.com:cherfaneranda/angularjs.git
-
+[submodule "Cassandra-Project"]
+	path = Cassandra-Project
+	url = git@github.com:Douha/Cassandra-Project.git
