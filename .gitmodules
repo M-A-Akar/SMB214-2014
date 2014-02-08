@@ -31,3 +31,6 @@
 [submodule "Cassandra-Project"]
 	path = Cassandra-Project
 	url = git@github.com:Douha/Cassandra-Project.git
+[submodule "FirefoxOS"]
+	path = FirefoxOS
+	url = git@github.com:klawsachkar/FirefoxOS.git
