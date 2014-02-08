@@ -25,3 +25,7 @@
 [submodule "adelyounes"]
 	path = adelyounes
 	url = git@github.com:adelyounes/adelyounes.git
+[submodule "angularjs"]
+	path = angularjs
+	url = git@github.com:cherfaneranda/angularjs.git
+
