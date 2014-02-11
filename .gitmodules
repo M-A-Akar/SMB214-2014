@@ -43,3 +43,6 @@
 [submodule "smb214-JAX-WS"]
 	path = smb214-JAX-WS
 	url = git@github.com:henryko/smb214-JAX-WS.git
+[submodule "googlebigquery"]
+	path = googlebigquery
+	url = git@github.com:danywazen/googlebigquery.git
