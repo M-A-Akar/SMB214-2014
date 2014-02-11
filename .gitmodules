@@ -46,3 +46,6 @@
 [submodule "googlebigquery"]
 	path = googlebigquery
 	url = git@github.com:danywazen/googlebigquery.git
+[submodule "Mazen-Dahham"]
+	path = Mazen-Dahham
+	url = https://github.com/mdahham/Mazen-Dahham
