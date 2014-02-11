@@ -40,3 +40,6 @@
 [submodule "glassfish"]
 	path = glassfish
 	url = git@github.com:miledbayssari/glassfish.git
+[submodule "smb214-JAX-WS"]
+	path = smb214-JAX-WS
+	url = git@github.com:henryko/smb214-JAX-WS.git
