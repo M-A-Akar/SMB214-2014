@@ -34,9 +34,9 @@
 [submodule "FirefoxOS"]
 	path = FirefoxOS
 	url = git@github.com:klawsachkar/FirefoxOS.git
-[submodule "glassfish"]
-	path = glassfish
-	url = git@github.com:miledbayssari/glassfish.git
 [submodule "lambda"]
 	path = lambda
 	url = git@github.com:peterChidiac/lambda.git
+[submodule "glassfish"]
+	path = glassfish
+	url = git@github.com:miledbayssari/glassfish.git
