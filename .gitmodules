@@ -58,3 +58,6 @@
 [submodule "Android"]
 	path = Android
 	url = git@github.com:pamelaabidoumeth/Android.git
+[submodule "CID"]
+	path = CID
+	url = git@github.com:hadialbadaoui/CID.git
