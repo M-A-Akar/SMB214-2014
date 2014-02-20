@@ -52,3 +52,9 @@
 [submodule "smb214-restfull"]
 	path = smb214-restfull
 	url = git@github.com:wadihmaksoud/smb214-restfull.git
+[submodule "Android_SMB214"]
+	path = Android_SMB214
+	url = git@github.com:hassanizzeddin/Android_SMB214.git
+[submodule "Android"]
+	path = Android
+	url = git@github.com:pamelaabidoumeth/Android.git
