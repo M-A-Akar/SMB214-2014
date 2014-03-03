@@ -10,6 +10,9 @@
 [submodule "smb214-hadoop"]
 	path = smb214-hadoop
 	url = git@github.com:henryko/smb214-hadoop.git
+[submodule " android_stockage_donnee "]
+	path = android_stockage_donnee
+	url = github.com/M-A-Akar/android_stockage_donnee.git
 [submodule "googleAppEngine"]
 	path = googleAppEngine
 	url = git@github.com:ziadrouhana13/googleAppEngine.git
